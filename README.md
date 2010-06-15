@@ -2,9 +2,13 @@
 
 Computer vision experiments by Rafael Polo using Processing.org.
 
+## Demo Video
+
 [![Demo Video](https://vimeo.com/11713433)](https://vimeo.com/11713433)
 
 *Demonstrates experiments 8, 3, and 9.*
+
+<iframe src="https://player.vimeo.com/video/11713433" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Projects
 
