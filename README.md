@@ -8,7 +8,7 @@ Computer vision experiments by Rafael Polo using Processing.org.
 
 *Demonstrates experiments 8, 3, and 9.*
 
-<iframe src="https://player.vimeo.com/video/11713433" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/11713433" width="640" height="480" frameborder="0" style="background: url(https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F879274426-a6538a5291bd36ed8486d743fc10bdfc2e2f82a77b02fdb22413324016938567-d_960%3Fregion%3Dus&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png) center/cover no-repeat;" allowfullscreen></iframe>
 
 ## Projects
 
