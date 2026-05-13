@@ -6,8 +6,6 @@ Computer vision experiments by Rafael Polo using Processing.org
 
 [![Watch on Vimeo](https://i.vimeocdn.com/video/64923776-e5585a94f259575fdfc7aa41b7b33181cf2b475894d103703284c8d07e769bff-d?mw=900&mh=506&q=70)](https://vimeo.com/11713433)
 
-*Demonstrates experiments 8, 3, and 9.*
-
 ## Projects
 
 | # | Project | Description |
